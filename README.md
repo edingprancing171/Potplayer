@@ -208,4 +208,4 @@ PotPlayer is offered as a complete free version, fully equipped with all feature
 Don't miss out on enhancing your multimedia experience. Download PotPlayer now and unlock a world of possibilities!
 
 ---
-**Last updated:** 2026-09-25 18:26:02 UTC
+**Last updated:** 2026-09-25 22:10:11 UTC
